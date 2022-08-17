@@ -19,7 +19,7 @@ st.set_page_config(page_title = 'Dashboard of employees and clients',
 # page_icon = ':bar_chart:',
 # layout = 'wide')
 st.title('Dashboard of employees and clients')
-st.subheader('using python.')
+# st.subheader('using python.')
 
 
 # query1 = pd.read_sql('SELECT * FROM Employee;' , conn)
